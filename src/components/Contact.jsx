@@ -11,7 +11,7 @@ const Contact = () => {
                 <p className="contact-text">
                     I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!
                 </p>
-                <a href="mailto:example@email.com" className="btn btn-primary btn-lg">Say Hello</a>
+                <a href="mailto:danexhkum@email.com" className="btn btn-primary btn-lg">Say Hello</a>
 
                 <footer className="footer">
                     <p>Designed & Built by Dhanesh Kumar</p>

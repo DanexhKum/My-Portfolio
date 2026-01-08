@@ -23,7 +23,7 @@ const About = () => {
                             Hello! My name is Dhanesh and I enjoy creating things that live on the internet. My interest in web development started with a curiosity about how things work, which led me to dive deep into coding.
                         </p>
                         <p>
-                            I am currently pursuing my Computer Science degree at <strong>FAST NUCES</strong>, Karachi. My main focus these days is building accessible, inclusive products and digital experiences, as well as exploring the fascinating world of <strong>Artificial Intelligence</strong>.
+                            I am a Computer Science graduate from <strong>FAST NUCES</strong>, Karachi. My journey has transitioned from academic exploration to building robust, scalable products. Currently, I focus on developing high-impact <strong>WooCommerce extensions</strong> and interactive web applications, while staying deeply engaged with the evolving world of <strong>Artificial Intelligence</strong>.
                         </p>
                         <p>
                             I strive to bridge the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product.
