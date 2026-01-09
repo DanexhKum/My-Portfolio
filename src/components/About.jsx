@@ -5,7 +5,7 @@ const About = () => {
     const skills = [
         "JavaScript (ES6+)",
         "React",
-        "Tailwind CSS", // I used vanilla but listed Tailwind as specific request allowed otherwise
+        "Php", // I used vanilla but listed Tailwind as specific request allowed otherwise
         "Node.js",
         "Python",
         "Deep Learning",

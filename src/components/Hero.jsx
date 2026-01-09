@@ -11,7 +11,7 @@ const Hero = () => {
                     <h1 className="hero-title">
                         Dhanesh Kumar.
                         <br />
-                        <span className="text-muted">I build things for the web.</span>
+                        <span className="text-muted">I build things for the B2B.</span>
                     </h1>
                     <p className="hero-description">
                         I'm a Full-Stack Web Developer and a Computer Science graduate from FAST NUCES.
