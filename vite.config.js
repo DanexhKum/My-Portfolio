@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Set the base to your repository name so GitHub Pages serves assets correctly.
   // Replace 'AI-Voice-Assistant-Realtime' with your repo name if different.
-  base: '/AI-Voice-Assistant-Realtime/',
+  base: '/My-Portfolio/',
 })
